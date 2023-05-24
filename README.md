@@ -1,2 +1,1 @@
-# genstruct
-php general folder Structure
+ Default Folder Layout
